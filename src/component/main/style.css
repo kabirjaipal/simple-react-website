@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #202225;
+  overflow: hidden;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arc1 {
+  /* background-color: blue; */
+  margin: 16px;
+  padding: 50px;
+  border: 2px solid white;
+  border-radius: 20px;
+  font-size: 30px;
+  font-family: monospace;
+  color: white;
+  margin-top: 50px;
+
+}
+
+.arc2 {
+  /* background-color: rgb(255, 251, 0); */
+  margin: 16px;
+  padding: 50px;
+  border: 2px solid white;
+  border-radius: 20px;
+  font-size: 30px;
+  font-family: monospace;
+  color: white;
+  margin-top: 50px;
+}
