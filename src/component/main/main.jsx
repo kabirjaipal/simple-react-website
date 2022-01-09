@@ -29,12 +29,12 @@ const Main = () => {
           </div>
 
           <div className="arc1">
-            <h2>Bot Stats</h2>
+            <h2>How to Use ?</h2>
             <p>
-              1. 500 Commands <br />
-              2. 800 Sub Commads <br />
-              3. 29999 Servers <br />
-              4. 5555555 Users <br />
+              1. type /help for See Commands <br />
+              2. /setup to see all setup commands <br />
+              3. /setup music to setup music system <br />
+              much more............ <br />
             </p>
           </div>
         </div>
