@@ -5,36 +5,41 @@
 }
 
 body {
-  background-color: #202225;
-  overflow: hidden;
+  background-color: #384558;
+  overflow: auto;
 }
 .main {
+  position: relative;
+}
+
+.boxes {
   display: flex;
   justify-content: center;
   align-items: center;
+  position: relative;
+  margin-top: 130px;
 }
-
+.desc {
+  margin-left: 180px;
+  margin-top: 60px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
 .arc1 {
   /* background-color: blue; */
-  margin: 16px;
+  margin: auto;
   padding: 50px;
   border: 2px solid white;
   border-radius: 20px;
-  font-size: 30px;
+  font-size: 25px;
   font-family: monospace;
   color: white;
-  margin-top: 50px;
-
+  margin-top: -60px;
+  box-shadow: #03409c;
 }
-
-.arc2 {
-  /* background-color: rgb(255, 251, 0); */
-  margin: 16px;
-  padding: 50px;
-  border: 2px solid white;
-  border-radius: 20px;
-  font-size: 30px;
-  font-family: monospace;
-  color: white;
-  margin-top: 50px;
+.botinfo {
+  display: flex;
+  justify-content: center;
+  bottom: 0%;
+  margin-top: 70px;
 }
