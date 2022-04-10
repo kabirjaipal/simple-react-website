@@ -1,7 +1,7 @@
 
 # Simple ReactJS Website
 
-a smile Website coded using ReactJS ...
+A Simple Discord Bot Wesbite to Show Stats
 
 
 ## Installation
