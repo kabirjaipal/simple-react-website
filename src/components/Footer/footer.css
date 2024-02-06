@@ -1,0 +1,8 @@
+.footer {
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  bottom: 0;
+  margin-top: 190px;
+  position: sticky;
+}

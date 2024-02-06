@@ -1,0 +1,36 @@
+.main {
+  position: relative;
+}
+
+.boxes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+  margin-top: 130px;
+}
+
+.desc {
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.arc1 {
+  padding: 30px;
+  border: 2px solid white;
+  border-radius: 20px;
+  font-size: 25px;
+  font-family: monospace;
+  color: white;
+  box-shadow: #03409c;
+}
+
+.botinfo {
+  display: flex;
+  justify-content: center;
+  bottom: 0%;
+  margin-top: 70px;
+}

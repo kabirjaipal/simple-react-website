@@ -1,0 +1,44 @@
+.navbar {
+  background-color: #1e1e1f;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 0.5rem;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar ul li {
+  list-style: none;
+  padding: 0 20px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  font-weight: bolder;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar ul li a:hover {
+  color: orangered;
+  transition: 300ms;
+}
+
+.logo {
+  display: flex;
+  justify-content: space-between;
+  font-size: 29px;
+  color: white;
+}
+
+#search {
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 10px;
+  outline: none;
+}
